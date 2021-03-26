@@ -29,7 +29,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 /**
  *
- * @author mjsh6
+ * @author mjsh635
  */
 public class MainWindow extends javax.swing.JFrame {
     FileNameExtensionFilter FileTypeFilter = new FileNameExtensionFilter("Excel", "xlxs", "xlsm");
