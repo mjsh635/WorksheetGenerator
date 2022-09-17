@@ -1,1 +1,4 @@
+The purpose of this program was to automate the creation and population of quality worksheets for Conditioned X-Ray tubes ready for sale.
 
+Using blank templated worksheets the user was prompted to fill out the appropriate information for the tube serial number, and a
+database was queried for all remaining information, populating a PDF file for printing.
